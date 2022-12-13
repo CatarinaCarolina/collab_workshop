@@ -1,3 +1,5 @@
 # collab_workshop
 
-another readme option
+### Catarina & Lakhan
+### Testing merge conflicts
+### another readme option
